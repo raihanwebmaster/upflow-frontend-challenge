@@ -6,7 +6,7 @@
 
 ## Quick preview
 
-![Preview Gif]("/preview/ezgif.com-gif-maker.gif")
+![Preview Gif]("./preview/ezgif.com-gif-maker.gif")
 
 ## Tecnologies
 
